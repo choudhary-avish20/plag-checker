@@ -17,9 +17,8 @@ This project is a **basic and simple plagiarism checker** written in Python. It 
 
 The corpus is built from compiled arXiv source data along with supporting text from Kaggle and a Wikipedia dump. It includes:
 
-- arXiv source archives extracted under `corpus/tex/`
-- Kaggle-derived academic and research text datasets
-- Wikipedia dump text for broader language coverage
+- arXiv source archives (https://www.kaggle.com/datasets/Cornell-University/arxiv)
+- Wikipedia dump text for broader cover (https://dumps.wikimedia.org/enwiki/20260601/)
 
 This combined dataset is used for plagiarism testing and similarity comparison in the project.
 
